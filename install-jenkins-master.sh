@@ -3,7 +3,7 @@ MY_PATH=$(pwd)
 
 echo "--------------------------------------------------"
 echo "Jenkins Master Installer for Debian/Ubuntu"
-echo "Email: dimas.restu@student.upi.edu"
+echo "Email: aas.suhendar@gmail.com"
 echo "--------------------------------------------------"
 
 
